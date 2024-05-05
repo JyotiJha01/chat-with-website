@@ -42,5 +42,5 @@ OPENAI_API_KEY=[your-openai-api-key]
 To run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
